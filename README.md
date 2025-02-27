@@ -1,4 +1,4 @@
-# Human Face Emotion Detection
+# Human Face Emotions Detection using Deep Learning CNN
 
 ## 📌 Overview
 The **Human Face Emotion Detection** project utilizes **Deep Learning (CNN)** to recognize human emotions from facial expressions. It classifies images into seven different emotions: **Angry, Disgust, Fear, Happy, Neutral, Sad, and Surprise**. The model is trained on the **Face Expression Recognition Dataset** and is deployed as a **Flask Web App**.
